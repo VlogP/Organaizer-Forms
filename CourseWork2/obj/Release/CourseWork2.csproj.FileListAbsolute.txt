@@ -1,0 +1,9 @@
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\bin\Release\CourseWork2.exe.config
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\bin\Release\CourseWork2.exe
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\bin\Release\CourseWork2.pdb
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\obj\Release\CourseWork2.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\obj\Release\CourseWork2.Form1.resources
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\obj\Release\CourseWork2.Properties.Resources.resources
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\obj\Release\CourseWork2.csproj.GenerateResource.Cache
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\obj\Release\CourseWork2.exe
+C:\Users\Владислав\documents\visual studio 2015\Projects\CourseWork2\CourseWork2\obj\Release\CourseWork2.pdb
